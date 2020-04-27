@@ -1,7 +1,7 @@
 # crud-php-oop-mysqli
 Aplikasi CRUD dengan PHP dan MySQLi (Object Oriented Style)
 
-#Fitur
+# Fitur
 1. Create
 2. Read
 3. Update
